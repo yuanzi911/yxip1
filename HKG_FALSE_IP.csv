@@ -1,0 +1,10 @@
+IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+8.218.143.10,2082,FALSE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",120,28.44
+47.74.26.196,8080,FALSE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",300,23.4
+47.245.40.55,2095,FALSE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",296,22.58
+183.232.159.226,2052,FALSE,SEA,US,North America,Seattle,56040,China Mobile communications corporation,378,16.12
+183.232.159.172,58888,FALSE,HKG,HK,Asia Pacific,Hong Kong,56040,China Mobile communications corporation,196,14.48
+8.218.143.10,8080,FALSE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",124,13.14
+8.217.248.220,2095,FALSE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",127,11.88
+183.232.159.226,887,FALSE,SEA,US,North America,Seattle,56040,China Mobile communications corporation,385,11.64
+8.217.248.220,2082,FALSE,HKG,HK,Asia Pacific,Hong Kong,45102,"Alibaba US Technology Co., Ltd.",119,11.26
