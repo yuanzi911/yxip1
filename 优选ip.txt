@@ -205,4 +205,6 @@
 185.217.110.52:36956#kirino,
 185.217.110.195:9999#kirino,
 185.217.111.32:443#kirino,
-best.ificould.xyz:2096#优选域名
+best.ificould.xyz:2096#优选域名,
+cfyx.sbjc.shop:443#优选域名,
+bestcf.030101.xyz:2096#优选域名
